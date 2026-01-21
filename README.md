@@ -55,3 +55,5 @@ This project demonstrates how classical machine learning techniques can be effec
 applied to fraud detection problems when combined with proper preprocessing, imbalance
 handling, and evaluation strategies. Random Forest emerged as the most effective model
 for detecting fraudulent transactions in this dataset.
+
+View Full Notebook: https://nbviewer.org/github/karthikeyach006-tech/Credit-Card-Fraud-Detection-ML/blob/main/Credit_Card_Fraud_Detection_ML.ipynb
