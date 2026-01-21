@@ -50,7 +50,7 @@ for real-world fraud detection scenarios
 - Scikit-learn
 - Matplotlib, Seaborn
 
-##Conclusion
+## Conclusion
 This project demonstrates how classical machine learning techniques can be effectively
 applied to fraud detection problems when combined with proper preprocessing, imbalance
 handling, and evaluation strategies. Random Forest emerged as the most effective model
